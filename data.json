@@ -1,0 +1,79 @@
+{
+  "followersData": [
+    {
+      "platform": "facebook",
+      "handle": "@nathanf",
+      "followersCount": "1,987",
+      "today": "12 Today"
+      
+    },
+    {
+      "platform": "twitter",
+      "handle": "@nathanf",
+      "followersCount": "1,044",
+      "today": "99 Today"
+    },
+    {
+      "platform": "instagram",
+      "handle": "@realnathanf",
+      "followersCount": "11K",
+      "today": "10,999 Today"
+    },
+    {
+      "platform": "youtube",
+      "handle": "Nathan F.",
+      "followersCount": "8,239",
+      "today": "144 Today"
+    }
+  ],
+  "overviewData": [
+    {
+      "title": "Page Views",
+      "platform": "facebook",
+      "value": "87",
+      "percentage": "3%"
+    },
+    {
+      "title": "Likes",
+      "platform": "facebook",
+      "value": "52",
+      "percentage": "2%"
+    },
+    {
+      "title": "Likes",
+      "platform": "instagram",
+      "value": "5,462",
+      "percentage": "2257%"
+    },
+    {
+      "title": "Profile Views",
+      "platform": "instagram",
+      "value": "52K",
+      "percentage": "1375%"
+    },
+    {
+      "title": "Retweets",
+      "platform": "twitter",
+      "value": "177",
+      "percentage": "303%"
+    },
+    {
+      "title": "Likes",
+      "platform": "twitter",
+      "value": "507",
+      "percentage": "553%"
+    },
+    {
+      "title": "Likes",
+      "platform": "youtube",
+      "value": "107",
+      "percentage": "19%"
+    },
+    {
+      "title": "Total Views",
+      "platform": "youtube",
+      "value": "1,407",
+      "percentage": "12%"
+    }
+  ]
+}
